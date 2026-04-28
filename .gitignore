@@ -1,0 +1,22 @@
+
+# R session files
+.Rproj.user
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rprofile
+
+
+# macOS / system files
+.DS_Store
+**/.DS_Store
+.Rapp.history
+**/.Rapp.history
+
+
+# Excel temp lock files
+~$*
+
+# large srf file (500mb)
+outputs/models/
